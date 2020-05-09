@@ -1,1 +1,4 @@
-
+icon_is_gay
+https://github.com/ProjectHex/RedCube/blob/master/RedCube.dll?raw=true
+false
+version
